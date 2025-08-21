@@ -7,6 +7,9 @@ public class HelloWorld {
     // Prints "Hello, World" to the terminal window.
     public static void main(String[] args)
     {
-        System.out.println("Hello, World");
+        System.out.println("My name is Phone Pyae Paing");
+        System.out.println("Course Name: OBJECT-ORIENTED PROGRAMMING IN JAVA I");
+        System.out.println("Course code: CSC200");
+        System.out.println("Lecture name: SATHISH SARMA");
     }
 }
